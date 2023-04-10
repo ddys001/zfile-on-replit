@@ -34,7 +34,7 @@ java -jar zfile.jar --zfile.log.path=/home/runner/${REPL_SLUG}/.zfile-v4/logs --
 
 ZFile一键搭建脚本
 ```
-bash <(curl -s https://raw.githubusercontent.com/sxbai/zfile-on-replit/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ddys001/zfile-on-replit/main/install.sh)
 ```
 ## 鸣谢
 - [Replit](https://github.com/replit)
